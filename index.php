@@ -33,7 +33,7 @@
 
             <div class="jumbotron">
                 <h1>Jossip!</h1>
-                <p>Some words here. <a href="#">A Link.</a></p>
+                <p>Some words here. <a href="#">A Link..</a></p>
             </div>
 
             <div class="col-sm-3">
@@ -55,8 +55,6 @@
                 <p>Jossip ("jobs" + "gossip") is devoted to spreading the scuttlebutt about employers and positions that you won't find anywhere else!</p>
                 <p>To take full advantage of Jossip's features, create an <a href="/register.php"><b>account</b></a> so that you can access rated info on employers and positions.</p>
                 <p>As a casual site visitor, you can browse a list of companies rated by Jossip users <a href="browsecos.php"><b>here</b></a>.</p>
-
-            </div>
 
             </div>
 
